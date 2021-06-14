@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01900a2e130d26dc8155",
+    "revision": "a4767d42a7a2f7516ff3",
     "url": "/poliseo/css/app.e130d58d.css"
   },
   {
@@ -20,20 +20,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poliseo/img/venasaur.195345af.png"
   },
   {
-    "revision": "19bd865de8b3478ddedc99ff310161cd",
+    "revision": "7e01ce2114802eff659ecf9e30fcd615",
     "url": "/poliseo/index.html"
   },
   {
-    "revision": "2e83b484c5a38d9f6cf0",
-    "url": "/poliseo/js/about.18fc1036.js"
+    "revision": "b9f6278fca7a7e5c76ae",
+    "url": "/poliseo/js/about.4061022a.js"
   },
   {
-    "revision": "01900a2e130d26dc8155",
-    "url": "/poliseo/js/app.881d960a.js"
+    "revision": "a4767d42a7a2f7516ff3",
+    "url": "/poliseo/js/app.304921b1.js"
   },
   {
-    "revision": "353b0ec63eb790cf1d3e",
-    "url": "/poliseo/js/chunk-vendors.78b87b94.js"
+    "revision": "5724f7b6d696eac4e36c",
+    "url": "/poliseo/js/chunk-vendors.81c0aa2e.js"
   },
   {
     "revision": "d0134630b84b73d82b0e8b8f59b56127",
