@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/poliseo/precache-manifest.063a3bb2a011cacd86e3515486a0ac58.js"
+  "/poliseo/precache-manifest.8afbe07773d8f493214df686343a4762.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "20-try-game"});

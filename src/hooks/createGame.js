@@ -10,7 +10,7 @@ let imgObjM, imgObjB, imgObjP, imgObjV;
 let interval;
 let objM, listener, listenerShoots;
 let largeShoot, shortShoot, marginObjs;
-const FPS = 60;
+const FPS = 70;
 const velocitiesObjs = [1, 2, 4];
 const velocitiesShoots = [2, 4, 5];
 let sizeSection = 0;
@@ -21,7 +21,7 @@ const keywordEvent = new window.keypress.Listener(this);
 let keys;
 let isGameEnded = false, hasWon = false, hasStarted = false, firstCharge = false, hasWonAllGame=false;
 let nivelesSuperados = 0, actualVelocityIdx = 1;
-const nivelesMaximos = 3;
+const nivelesMaximos = 5;
 
 /*Data para exportar */
 const nivelActual = ref(1);
