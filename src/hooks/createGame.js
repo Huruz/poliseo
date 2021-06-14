@@ -10,7 +10,7 @@ let imgObjM, imgObjB, imgObjP, imgObjV;
 let interval;
 let objM, listener, listenerShoots;
 let largeShoot, shortShoot, marginObjs;
-const FPS = 40;
+const FPS = 60;
 const velocitiesObjs = [1, 2, 4];
 const velocitiesShoots = [2, 4, 5];
 let sizeSection = 0;
