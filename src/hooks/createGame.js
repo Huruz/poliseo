@@ -3,7 +3,7 @@ import game from './game'
 import srcChar from "@/img/charizard.png";
 import srcBlas from "@/img/blastoise.png";
 import srcVena from "@/img/venasaur.png";
-import srcPika from "@/img/pikachu.png";
+import srcPika from "@/img/pikachu.png"; 
 
 let canvas, ctx;
 let imgObjM, imgObjB, imgObjP, imgObjV;
