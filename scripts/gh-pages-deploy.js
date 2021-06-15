@@ -6,7 +6,7 @@ const execa = require("execa");
       console.log("Building...");
       await execa("npm", ["run", "build"]);
       const folderName = fs.existsSync("dist") ? "dist" : "build";
-      await execa("git", ["add", "-f", folderName]);
+      await execa("git", ["add", folderName]);
       await execa("git", ["commit", folderName, "-m", "'Changes gh-pages subtreecommit'"]);
       console.log("Pushing to gh-pages...");
       await execa("git", ["subtree", "push", "--prefix", folderName, "origin", "gh-pages"]);
